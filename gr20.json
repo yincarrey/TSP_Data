@@ -1,7 +1,26 @@
 {
   "TourSize": 20,
   "OptTour": [
-    16, 11, 3, 7, 6, 8, 5, 10, 17, 18, 19, 15, 2, 20, 14, 13, 9, 4, 12, 1
+    "Linares",
+    "Litueche",
+    "Llaillay",
+    "Llanquihue",
+    "Lolol",
+    "Loncoche",
+    "Longaví",
+    "Lonquimay",
+    "Los Alamos",
+    "Los Andes",
+    "Los Ángeles",
+    "Los Lagos",
+    "Los Muermos",
+    "Los Sauces",
+    "Los Vilos",
+    "Lota",
+    "Lumaco",
+    "Machalí",
+    "Máfil",
+    "Malloa"
   ],
   "OptDistance": 1272,
   "DistanceMatrix": [
